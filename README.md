@@ -23,7 +23,7 @@ Esta aplicación permite a los usuarios consultar el clima actual en una ciudad 
 ### Pasos de Instalación
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+    git clone https://github.com/Imfelipe487/weather_cities-.git
     cd nombre-del-repositorio
     ```
 2. Instala las dependencias:
@@ -45,8 +45,6 @@ Esta aplicación permite a los usuarios consultar el clima actual en una ciudad 
 1. Accede a la aplicación en `http://localhost:8000`.
 2. Selecciona una ciudad y proporciona tu presupuesto en pesos colombianos para obtener el clima y la conversión de moneda.
 
-## Documentación Técnica
-Para una descripción detallada del código, diagramas de base de datos, y arquitectura de la aplicación, consulta la carpeta [docs](docs/README.md).
 
 ## APIs Utilizadas
 - [OpenWeatherMap](https://openweathermap.org/api) - Para obtener el clima.
