@@ -36,42 +36,6 @@
         document.getElementById('city_id').value = id;
     }
 </script>
-
-    {{-- <select class="form-select" aria-label="Default select example" name="pais">
-        <option selected>Selecciona un pais</option>
-        @foreach ($var as $item)
-            <option value="{{$item->city}}">{{$item->city}}</option><input type="hidden" value="{{$item->simbol}}" name="simbolo"><input type="hidden" value="{{$item->id}}" name="id">
-        @endforeach
-    </select>
-
-
-    <div class="input-group mb-3">
-        <span class="input-group-text">$</span>
-        <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)" name="precio">
-        <span class="input-group-text">.00</span>
-    </div>
-
-    <button class="btn btn-outline-dark">Dark</button>  --}}
-
-    
-    {{-- 0000--}}
-
-    {{-- <label for="cars">Selecciona la ciudad que quieres visitar</label>
-            <select class="form-select" aria-label="Default select example" name="pais">
-                <option selected>Selecciona una ciudad</option>
-                @foreach ($var as $item)
-                    <option value="{{$item->city}}">{{$item->city}}</option><input type="hidden" value="{{$item->simbol}}" name="simbolo"><input type="hidden" value="{{$item->id}}" name="id">
-                @endforeach
-            </select>
-        
-            <div class="input-group mb-3">
-                <span class="input-group-text">$</span>
-                <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)" name="precio">
-                <span class="input-group-text">.00</span>
-            </div>
-        
-            <button class="btn btn-outline-dark">Visitar</button> --}}
-
 </form>
 
 
