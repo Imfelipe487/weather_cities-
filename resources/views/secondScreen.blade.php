@@ -16,7 +16,6 @@
             <button class="btn btn-outline-dark" data-bs-toggle="modal" data-bs-target="#redirectModal">COMPRAR</button>
         </div>
 
-        <!-- Modal de Bootstrap -->
         <div class="modal fade" id="redirectModal" tabindex="-1" aria-labelledby="redirectModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">

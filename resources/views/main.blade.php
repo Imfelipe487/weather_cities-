@@ -12,7 +12,6 @@
         @endforeach
     </select>
 
-    <!-- Campos ocultos que serán actualizados con la selección -->
     <input type="hidden" id="simbolo" name="simbolo">
     <input type="hidden" id="city_id" name="id">
 
@@ -37,7 +36,5 @@
     }
 </script>
 </form>
-
-
 
 @stop
